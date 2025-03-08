@@ -1,7 +1,14 @@
+import { GlobalStyles } from './styles/GlobalStyles';
+
+import { Header } from './components/Header';
+import { Orders } from './components/Orders';
+
 export function App() {
   return (
-    <div>
-      <h1>My App</h1>
-    </div>
+    <>
+      <GlobalStyles />
+      <Header />
+      <Orders />
+    </>
   );
 }
