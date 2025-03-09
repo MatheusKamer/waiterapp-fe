@@ -13,7 +13,7 @@ const orders: Order[] = [
         quantity: 2,
         product: {
           name: 'Pizza Margherita',
-          imagePath: '/images/pizza-margherita.jpg',
+          imagePath: '1741403799743-suco-de-laranja.png',
           price: 12.99,
         },
       },
@@ -22,7 +22,7 @@ const orders: Order[] = [
         quantity: 1,
         product: {
           name: 'Coca Cola',
-          imagePath: '/images/coca-cola.jpg',
+          imagePath: '1741403799743-suco-de-laranja.png',
           price: 1.99,
         },
       },
@@ -38,7 +38,7 @@ const orders: Order[] = [
         quantity: 1,
         product: {
           name: 'Spaghetti Carbonara',
-          imagePath: '/images/spaghetti-carbonara.jpg',
+          imagePath: '1741403799743-suco-de-laranja.png',
           price: 14.99,
         },
       },
@@ -54,7 +54,7 @@ const orders: Order[] = [
         quantity: 3,
         product: {
           name: 'Tiramisu',
-          imagePath: '/images/tiramisu.jpg',
+          imagePath: '1741403799743-suco-de-laranja.png',
           price: 6.99,
         },
       },
